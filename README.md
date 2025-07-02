@@ -2,11 +2,15 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGJ0cGd3aHY5Z2xvMmR2aDFpNDRiam9pbm8zdnRnOXpob3hnYmR5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lIzAEoZEn571u/giphy.gif"  />
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
