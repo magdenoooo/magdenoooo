@@ -4,7 +4,9 @@
 
 <br clear="both">
 
-<img align="left" height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGJ0cGd3aHY5Z2xvMmR2aDFpNDRiam9pbm8zdnRnOXpob3hnYmR5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lIzAEoZEn571u/giphy.gif"  />
+<div align="center">
+  <img height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGJ0cGd3aHY5Z2xvMmR2aDFpNDRiam9pbm8zdnRnOXpob3hnYmR5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lIzAEoZEn571u/giphy.gif"  />
+</div>
 
 ###
 
@@ -42,7 +44,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/magdy-atef-zahran-1354bb234/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
